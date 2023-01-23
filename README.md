@@ -7,3 +7,5 @@ File &rarr; Open file or Project &rarr; Select `img-filt.pro` file
 
 # Run the app
 ./img-filt
+
+![](doc/img-filt.png)
